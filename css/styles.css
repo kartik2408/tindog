@@ -95,6 +95,11 @@ color: white;
   padding: 200px;
 }
 
+.pricing-column{
+  padding: 3% 2%;
+  text-align: center;
+}
+
 .carousel-item{
     padding: 7% 15%;
 }
