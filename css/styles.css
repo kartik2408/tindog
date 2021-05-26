@@ -92,12 +92,14 @@ color: white;
 #pricing{
   text-align: center;
   color: black;
-  padding: 200px;
+  padding: 7% 15%;
+ 
 }
 
 .pricing-column{
   padding: 3% 2%;
   text-align: center;
+   padding-bottom:3%;
 }
 
 .carousel-item{
